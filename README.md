@@ -21,7 +21,6 @@
 <a href="https://fb.com/kishan.ramesh.9699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kishan.ramesh.9699" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kishanramesh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kishanramesh05" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@kishanramesh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kishanramesh05" height="30" width="40" /></a>
-<a href="https://discord.gg/TSG•KISHAN#1845" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TSG•KISHAN#1845" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
