@@ -14,7 +14,8 @@
 - 📄 Know about my experiences (I only have a few months experience).
 
 - ⚡ Fun fact **Python does not require a compiler As a high-level and interpreted language, Python does not need a compiler. This is unlike Java and C++ which have to be compiled first before being interpreted. For Python, it relies on an application known as an interpreter.**
-
+<!DOCTYPE html>
+<html>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/opkishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="opkishan" height="30" width="40" /></a>
@@ -36,3 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishan-ramesh&" alt="kishan-ramesh" /></p>
 
+</html>
