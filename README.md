@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KISHAN R.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishan-ramesh&label=Profile%20views&color=0e75b6&style=flat" alt="kishan-ramesh" /> </p>
 
-- 🔭 I’m currently working on **Web Development & Game Development(JS Game Development).**
+- 🔭 I’m currently working on **Web Development.**
 
 - 🌱 I’m currently learning **JavaScript(For Web Applications).**
 
