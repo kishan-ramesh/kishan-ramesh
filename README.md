@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Development.**
 
-- 🌱 I’m currently learning **JavaScript(For Web Applications).**
+- 🌱 I’m currently learning **Everything which is used in Web Development.**
 
 - 👯 I’m looking to collaborate on **Google or Microsoft or Facebook.**
 
