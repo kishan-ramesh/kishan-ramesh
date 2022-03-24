@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Everything which is used in Web Development.**
 
-- 👯 I’m looking to collaborate on **Google or Microsoft or Facebook.**
-
 - 👨‍💻 All of my projects are available at www.kishans-portfolio.tk
 
 - 📫 How to reach me **kishanramesh05@gmail.com**
