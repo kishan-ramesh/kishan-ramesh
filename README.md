@@ -5,8 +5,7 @@
 
 - 🌱 I’m currently learning **Everything which is used in Web Development.**
 
-- 👨‍💻 All of my projects are available at www.kishan.ga
-
+- 👨‍💻 All of my projects are available at www.kishan.ga or https://github.com/kishan-ramesh?tab=repositories
 - 📫 How to reach me **kishanramesh05@gmail.com**
 
 - 📄 Know about my experiences (I only have a few months experience).
